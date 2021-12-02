@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <ACT100 extra="fun">
+    <paid> 60 </paid>
+    <due> 100 </due>
+ </ACT100>
+ <ACT200>
+   <paid> 60 </paid>
+   <due> 70 </due>
+</ACT200>
+<ACT300>
+  <paid> 0 </paid>
+  <due> 0 </due>
+</ACT300>
+</root>

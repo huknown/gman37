@@ -1,0 +1,12 @@
+---
+# YAML allows comments, super useful!
+ACT100:
+  paid: 60
+  due: 100
+ACT200:
+  paid: 70
+  due: 60
+ACT300:
+  paid: 0
+  due: 0
+...
