@@ -20,3 +20,6 @@ class Database:
             bal = float(acct["due"]) - float(acct["paid"])
             return f"$ {bal:.2f}"
         return None
+
+def donothing(self):
+    9 + 2
